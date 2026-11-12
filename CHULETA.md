@@ -14,3 +14,4 @@
 - `git stash`: aparca lo que tienes a medias
 - `git cherry-pick <hash>`: trae un commit suelto
 - `git switch -c <rama>`: crea una rama
+- `git log --oneline --graph`: dibuja el historial con sus ramas
